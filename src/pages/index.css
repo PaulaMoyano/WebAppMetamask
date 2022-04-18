@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    flex-direction: column; /* en container puse background de metamask, centre la imagen y el texto, el boton, etc*/
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url(/src/background/metamask-background.jpg);
+    background-repeat: no-repeat;
+    background-size:contain;
+    gap: 30px
+} 
+
