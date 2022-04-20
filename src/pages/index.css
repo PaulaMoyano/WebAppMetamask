@@ -7,7 +7,8 @@
     height: 100vh;
     background-image: url(/src/background/metamask-background.jpg);
     background-repeat: no-repeat;
-    background-size:contain;
-    gap: 30px
+    background-size: contain;
+    gap: 120px;
+
 } 
 
